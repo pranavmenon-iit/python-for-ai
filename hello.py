@@ -13,9 +13,3 @@ print(My_dog.breed)
 print(My_dog.name)
 print(My_dog.breed)
 
-print(My_dog.name)
-print(My_dog.breed)
-
-print(My_dog.name)
-print(My_dog.breed)
-
